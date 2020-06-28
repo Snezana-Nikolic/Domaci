@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Moja forma</title>
+    <link rel="stylesheet" href="form2.css">
+</head>
+<body>
+    
+
+
+<div class="container">
+	<div class="header">
+		<h2>Create Form</h2>
+	</div>
+	<form id="form" class="form">
+		<div class="form-control">
+			<label for="name">Ime i prezime: </label>
+			<input type="text" placeholder="Unesi ime i prezime " id="name" min="5" max="50"/>
+			<small>Error message</small>
+		</div>
+		<div class="form-control">
+			<label for="email">Email:</label>
+			<input type="email" placeholder="Unesi email" id="email" maxlength="50" />
+			<small>Error message</small>
+		</div>
+		<div class="form-control">
+			<label for="years">Godine starosti:</label>
+			<input type="number" placeholder="Unesi godine starosti: " id="years" min="18"/>
+			<small>Error message</small>
+		</div>
+		<div class="form-control">
+			<label for="message">Ostavite poruku:</label> <br>
+            <textarea name="message" cols="30" rows="10"  id="message" maxlength="100" ></textarea><br>
+			<small>Error message</small>
+        </div>
+        <button type="submit" id="form1" onclick="enableBtn()" >Provjeri</button>
+		<button  type="submit" id="MyBtn">Submit</button>
+	</form>
+</div>
+
+<script src="form2.js"></script>
+
+</body>
+</html>
