@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Group_140" width="109.952" height="48" data-name="Group 140" viewBox="0 0 109.952 48">
+    <defs>
+        <style>
+            .cls-1{fill:#9ea8b8;font-size:16px;font-family:Poppins-Bold,Poppins;font-weight:700}.cls-2{fill:#1aaca1}
+        </style>
+    </defs>
+    <text id="_Amplitudo" class="cls-1" data-name="Amplitudo" transform="translate(109.952 17)">
+        <tspan x="-87.136" y="25">Amplitudo</tspan>
+    </text>
+    <g id="Group_138" data-name="Group 138" transform="translate(0 25)">
+        <path id="Path_139" d="M192.933 578.754c-1.166 0-2.112 5.137-2.112 11.474h4.225c0-6.338-.946-11.474-2.114-11.474" class="cls-2" data-name="Path 139" transform="translate(-186.936 -572.764)"/>
+        <path id="Path_140" d="M250.9 519.942c-2.312 0-4.188 7.819-4.188 17.465h8.374c0-9.646-1.875-17.465-4.187-17.465" class="cls-2" data-name="Path 140" transform="translate(-237.134 -519.942)"/>
+        <path id="Path_141" d="M153.9 626.22c-.674 0-1.222 2.973-1.222 6.64h2.444c0-3.667-.547-6.64-1.222-6.64" class="cls-2" data-name="Path 141" transform="translate(-152.682 -615.395)"/>
+    </g>
+</svg>
